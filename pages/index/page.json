@@ -30,50 +30,43 @@
 		{
 			"id": "",
 			"price": 1200,
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service1"
+			"short": "Accessories and products for dogs.",
+			"thumb": "https://int.ferplast.com/cdn/shop/collections/DSC_2592_modificata_1400x.jpg?v=1604065064",
+			"name": "Dogs"
 		},
 		{
 			"id": "",
 			"price": 1200,
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service2"
+			"short": "Accessories and products for cats.",
+			"thumb": "https://www.ferplast.com/cdn/shop/collections/collection-gatti_1400x.png?v=1603380194",
+			"name": "Cats"
 		},
 		{
 			"id": "",
 			"price": 1200,
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service3"
-		},
-		{
-			"id": "",
-			"price": 1200,
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service2"
+			"short": "Accessories and products for birds.",
+			"thumb": "https://int.ferplast.com/cdn/shop/collections/3000x750px_04_UCCELLI_Sottocategorie-1_GABBIE-PER-UCCELLI_1200x630.jpg?v=1604571693",
+			"name": "Birds"
 		}
 	],
 	"articles": [
 		{
 			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "article"
+			"short": "There are many models of dog leads, but how do you choose the right one? In order to decide, you need to know all the types on the market and their main features such as length and material they are made of. Here are a few details to clear your head!",
+			"thumb": "https://www.ferplast.com/cdn/shop/files/Guinzagli.jpg?v=1618991026&width=600",
+			"name": "How to choose the right dog leads."
 		},
 		{
 			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "article"
+			"short": "For 50 years we have taken care of your pet.",
+			"thumb": "https://www.ferplast.com/cdn/shop/files/2000x1333px_Home-Page_Sezione-02_cuscino.jpg?v=1614311523&width=800",
+			"name": "Ferplast, a name, a story."
 		},
 		{
 			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "article"
+			"short": "Look for the Ferplast item you have, in the product page you will find the associated spare parts.",
+			"thumb": "https://www.ferplast.com/cdn/shop/files/cuccia_3.png?v=1614298384&width=204",
+			"name": "We have a large assortment of accessories."
 		}
 	]
 }

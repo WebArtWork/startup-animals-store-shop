@@ -3,27 +3,51 @@
 	"products": [
 		{
 			"id": "",
-			"price": 1200,
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-        	"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"thumbs": ["https://plus.unsplash.com/premium_photo-1683141052679-942eb9e77760?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"], 
-			"name": "product"
+			"price": "€15,10",
+			"short": "Vegetarian dental snack for dogs. Natural, with functional ingredient Yucca Schidigera. Fillable with dog pates or toothpaste. Shape of bone.",
+        	"thumb": "https://www.ferplast.com/cdn/shop/products/1-0180018625_360x.jpg?v=1695034692",
+			"thumbs": ["https://www.ferplast.com/cdn/shop/products/1-0180018625_360x.jpg?v=1695034692"], 
+			"name": "100% SNACK FILLABLE - BONE YUCCA "
 		},
 		{
 			"id": "",
-			"price": 1200,
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-        	"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"thumbs": ["https://plus.unsplash.com/premium_photo-1683141052679-942eb9e77760?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"], 
-			"name": "product"
+			"price": "€132,70",
+			"short": "Outdoor dog kennel, made of FSC™ certified Nordic pine wood",
+        	"thumb": "https://www.ferplast.com/cdn/shop/products/1-0180016533_360x.jpg?v=1669031784",
+			"thumbs": ["https://www.ferplast.com/cdn/shop/products/1-0180016533_360x.jpg?v=1669031784"], 
+			"name": "BAITA"
 		},
 		{
 			"id": "",
-			"price": 1200,
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-        	"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"thumbs": ["https://plus.unsplash.com/premium_photo-1683141052679-942eb9e77760?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"], 
-			"name": "product"
+			"price": "€3,50",
+			"short": "Disposable moistened cleansing glove for cats and dogs. Green Tea & Chamomile scented.",
+        	"thumb": "https://www.ferplast.com/cdn/shop/products/1-0180016242_360x.jpg?v=1669026964",
+			"thumbs": ["https://www.ferplast.com/cdn/shop/products/1-0180016242_360x.jpg?v=1669026964"], 
+			"name": "GENICO FRESH GLOVE "
+		},
+		{
+			"id": "",
+			"price": "€32,40",
+			"short": "Cat litter box.",
+        	"thumb": "https://www.ferplast.com/cdn/shop/products/1-0180018462_360x.jpg?v=1681829610",
+			"thumbs": ["https://www.ferplast.com/cdn/shop/products/1-0180018462_360x.jpg?v=1681829610"], 
+			"name": "BILL"
+		},
+		{
+			"id": "",
+			"price": "€46,80",
+			"short": "Cotton and eco-friendly fur bed for dogs and cats.",
+        	"thumb": "https://www.ferplast.com/cdn/shop/products/1-0180016187_1800x1800.jpg?v=1669030955",
+			"thumbs": ["https://www.ferplast.com/cdn/shop/products/1-0180016187_1800x1800.jpg?v=1669030955"], 
+			"name": "DANDY F"
+		},
+		{
+			"id": "",
+			"price": "€196,60",
+			"short": "Large cage for birds, canaries and parakeets.",
+        	"thumb": "https://www.ferplast.com/cdn/shop/products/1-0180018505_1800x1800.jpg?v=1685554610",
+			"thumbs": ["https://www.ferplast.com/cdn/shop/products/1-0180018505_1800x1800.jpg?v=1685554610"], 
+			"name": "PIANO 6"
 		}
 	]
 }

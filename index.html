@@ -63,13 +63,13 @@
 			</label>
 
 			<div class="topbar__content">
-				<nav class="topbar__menu topbar-menu">
+				<!-- <nav class="topbar__menu topbar-menu">
 					<ul class="topbar-menu__list">
 						{% for tag in tags %}
 						<a href="/{{{tag.category.group}}}s/{{{tag.id}}}" class="topbar-menu__link">{{{tag.name}}}</a>
 						{% endfor %}
 					</ul>
-				</nav>
+				</nav> -->
 <!-- 
 				<a href="/manage/profile" class="topbar__login topbar-login">
 					<span class="topbar-login__text">Auth</span>
@@ -95,7 +95,9 @@
 			<div class="footer__main footer-main">
 				<div class="footer-main__menu footer-menu">
 
-					{% if footer.contents.length %}
+					<div class="footer-menu_block" style="line-height: 30px; font-size: 22px;"> Our pet emporium stands as a haven of quality and care, dedicated to serving both our beloved animal companions and their discerning owners. With an unwavering commitment to excellence, we curate a diverse array of products sourced from trusted brands, ensuring the well-being and happiness of every furry friend. Step into our welcoming space and embark on a journey of discovery, where each visit is a celebration of the special bond between humans and animals, and our passion for providing the best for our four-legged family members shines through.</div>
+
+					<!-- {% if footer.contents.length %}
 					<div class="footer-menu__block">
 						<span class="footer-menu__title">{{{translate('ThemeArtemVelihin.Contents')}}}</span>
 						<ul class="footer-menu__list">
@@ -179,7 +181,7 @@
 
 						</ul>
 					</div>
-					{% endif %}
+					{% endif %} -->
 
 				</div>
 

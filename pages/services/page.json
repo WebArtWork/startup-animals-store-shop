@@ -3,51 +3,39 @@
 	"services": [
 		{
 			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
+			"short": "Accessories and products for dogs.",
+			"thumb": "https://int.ferplast.com/cdn/shop/collections/DSC_2592_modificata_1400x.jpg?v=1604065064",
+			"name": "Dogs"
+		},
+		{
+			"id": "",
+			"short": "Accessories and products for cats.",
+			"thumb": "https://www.ferplast.com/cdn/shop/collections/collection-gatti_1400x.png?v=1603380194",
+			"name": "Cats"
+		},
+		{
+			"id": "",
+			"short": "Accessories and products for birds.",
+			"thumb": "https://int.ferplast.com/cdn/shop/collections/3000x750px_04_UCCELLI_Sottocategorie-1_GABBIE-PER-UCCELLI_1200x630.jpg?v=1604571693",
+			"name": "Birds"
 		},
 		{
 			"id": "",
 			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
+			"thumb": "https://media1.popsugar-assets.com/files/thumbor/telqYGNB0fgZzGQLyjjo01My0d4=/fit-in/792x528/top/filters:format_auto():upscale()/2021/05/20/962/n/48215548/40baba9060a6dd33ca5337.68056698_GettyImages-.jpg",
+			"name": "Small Pets"
 		},
 		{
 			"id": "",
 			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
+			"thumb": "https://images.ctfassets.net/ww1ie0z745y7/2ZLgATkZvsbHjsnrPRzBYu/e592901dccc526622e39898e9271a7ef/Goldfish.jpeg?q=75",
+			"name": "Fish"
 		},
 		{
 			"id": "",
 			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
-		},
-		{
-			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
-		},
-		{
-			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
-		},
-		{
-			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
-		},
-		{
-			"id": "",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"name": "service"
-		}
+			"thumb": "https://d2zp5xs5cp8zlg.cloudfront.net/image-53658-800.jpg",
+			"name": "Reptiles and turtles"
+		}	
 	]
 }
